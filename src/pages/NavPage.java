@@ -6,6 +6,20 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class NavPage {
+//	Home link
+//	About link
+//	My profile link
+//	Admin dugme
+//	Cities link iz padajuceg Admin menija
+//	Users link iz padajuceg Admin menija
+//	Sign up dugme
+//	Login dugme
+//	Logout dugme
+//	Dugme za izbor jezika
+//	EN dugme iz padajuceg menija za izbor jezika
+//	ES dugme iz padajuceg menija za izbor jezika
+//	FR dugme iz padajuceg menija za izbor jezika
+//	CN dugme iz padajuceg menija za izbor jezika
 
 	private WebDriver driver;
 	private WebDriverWait wait;
